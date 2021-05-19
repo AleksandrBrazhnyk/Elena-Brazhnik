@@ -22,7 +22,8 @@ body {
 }
 
 .sidebar {
-  background: #1e2939;
+  background: darkcyan;
+  /* background: #1e2939; */
   width: 370px;
   padding-top: 40px;
   padding-bottom: 40px;
@@ -33,6 +34,7 @@ body {
 }
 
 .about-me-container {
+ background-color: rgb(154, 250, 218); 
   padding-left: 90px;
   padding-right: 90px;
   padding-top: 110px;
@@ -59,7 +61,7 @@ body {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  color: #6d747e;
+  color: #ffffff;
 }
 
 .contacts-titl-type {
@@ -96,7 +98,9 @@ body {
 }
 
 .tech-skills-text {
-  color: #a7acb2;
+  font-size: large;
+  color: #ffffff;
+  /* color: #a7acb2; */
 }
 
 .soft-skils-container {
